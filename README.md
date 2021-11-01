@@ -1,13 +1,12 @@
-<h1 align="center">hello 👋, I'm Aditya Argadinata</h1>
+<h1 align="center">hello nice to meet you I'm Aditya Argadinata</h1>
 <h3 align="center">i am a web developer & web designer from indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaruu&label=Profile%20views&color=0e75b6&style=flat" alt="sujaruu" /> </p>
 
-- 🌱 I’m currently learning **Html,css,java script**
+- I’m currently learning **Html,css,java script**
 
-- 📫 How to reach me **argaaditya477@gmail.com**
+-How to reach me **argaaditya477@gmail.com**
 
-- ⚡ Fun fact **i am really like music too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
