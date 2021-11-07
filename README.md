@@ -5,7 +5,7 @@
 
 - I’m currently learning **Html,css,java script**
 
-- How to reach me **argaaditya477@gmail.com**
+- How to reach me **https://linktr.ee/Aditya_Arga**
 
 
 <h3 align="left">Connect with me:</h3>
