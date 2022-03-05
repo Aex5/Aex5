@@ -1,9 +1,6 @@
 <h1 align="center">hello 👋, I'm Aditya Argadinata</h1>
-<h3 align="center">i am a web developer & web designer from indonesia</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sujaruu&label=Profile%20views&color=0e75b6&style=flat" alt="sujaruu" /></p>
-
-- 🌱 I’m currently learning **Frontend ecosystem development** - 📫 How to reach me **argaaditya477@gmail.com** - ⚡ Fun fact **i am really like music too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +30,4 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaruu&show_icons=true&locale=en" alt="sujaruu" /></p>
+
