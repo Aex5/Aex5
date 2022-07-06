@@ -1,4 +1,5 @@
 <h1 align="center">Aditya Argadinata</h1>
+<p align="center">I love learning and work with javascript and i currently learning fullstack javascript environment</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sujaruu&label=Profile%20views&color=0e75b6&style=flat" alt="sujaruu" /></p>
 
