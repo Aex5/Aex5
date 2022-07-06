@@ -21,7 +21,7 @@
   /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaruu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaruu&show_icons=true&locale=en&layout=compact" alt="sujaruu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaruu&show_icons=true&locale=en" alt="sujaruu" /></p>
