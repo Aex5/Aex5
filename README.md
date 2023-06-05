@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 <h1 align="center">Aditya Argadinata</h1>
 <p align="center">I love learning and work with javascript and i currently learning fullstack javascript environment</p>
 
@@ -28,5 +27,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujaruu&" alt="sujaruu" /></p>
 </div>
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2059%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+
 
 <!--END_SECTION:waka-->
